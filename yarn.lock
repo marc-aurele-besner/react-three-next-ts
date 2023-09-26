@@ -8239,15 +8239,15 @@ luxon@^3.2.1:
   resolved "https://registry.yarnpkg.com/luxon/-/luxon-3.4.3.tgz#8ddf0358a9492267ffec6a13675fbaab5551315d"
   integrity sha512-tFWBiv3h7z+T/tDaoxA8rqTxy1CHV6gHS//QdaH4pulbq/JuBSGgQspQQqcgnwdAx6pNI7cmvz5Sv/addzHmUg==
 
+maath@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/maath/-/maath-0.10.0.tgz#d5d0299a3d7bf50e31b1236fd4a34442e04f26da"
+  integrity sha512-r6EnyYFjIlaeMi0WXO0kgXeMiFICgwCt8RYPSZD4yyZhJe9rkTlc/EA7t7lIov1cxfI+bFPYI8xp/OT3hb6/zg==
+
 maath@^0.6.0:
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/maath/-/maath-0.6.0.tgz#7841d0fb95bbb37d19b08b7c5458ef70190950d2"
   integrity sha512-dSb2xQuP7vDnaYqfoKzlApeRcR2xtN8/f7WV/TMAkBC8552TwTLtOO0JTcSygkYMjNDPoo6V01jTw/aPi4JrMw==
-
-maath@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/maath/-/maath-0.7.0.tgz#a9a44fe2f7680959d7cc75466ac11329e96db66c"
-  integrity sha512-JQ1JZrQLDgJ59snCk2AcSb/jdGwNgGQXlLcfZChN8lmpMR7g3bpMM3ugcqGfU1ROwjVvX5CvcVJHc8TkxljG8Q==
 
 macos-release@^3.1.0:
   version "3.2.0"
